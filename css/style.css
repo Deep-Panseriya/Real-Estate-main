@@ -52,6 +52,9 @@
   font-family: "Mukta", sans-serif;
 }
 
+/**************************/
+/* Hero Button Section */
+/**************************/
 .buttons {
   display: flex;
   flex-wrap: wrap;
