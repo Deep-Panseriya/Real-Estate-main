@@ -1,0 +1,49 @@
+2025-07-15T06:20:33.843Z - info:   [01932] *** FOLDER: /Users/panseriya/Desktop/Real-Estate-main ***
+2025-07-15T06:20:33.844Z - info:   [01932] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-15T06:20:33.844Z - debug:  [01932] Looking for an External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.845Z - debug:  [01932] No External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.845Z - debug:  [01932] Looking for TFVC repository at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.846Z - debug:  [01932] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-15T06:20:33.846Z - debug:  [01932] Using TFS proxy: 
+2025-07-15T06:20:33.847Z - debug:  [01932] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-15T06:20:33.847Z - warn:   [01932] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-15T06:20:33.848Z - error:  [01932] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-15T06:20:33.859Z - debug:  [01932] Reinitializing due to onDidChangeConfiguration
+2025-07-15T06:20:33.859Z - debug:  [01932] Polling interval value (minutes): 5
+2025-07-15T06:20:33.859Z - debug:  [01932] Polling interval must be greater than 10 minutes.
+2025-07-15T06:20:33.861Z - info:   [01932] *** FOLDER: /Users/panseriya/Desktop/Real-Estate-main ***
+2025-07-15T06:20:33.861Z - info:   [01932] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-15T06:20:33.861Z - debug:  [01932] Looking for an External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.861Z - debug:  [01932] No External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.861Z - debug:  [01932] Looking for TFVC repository at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.861Z - debug:  [01932] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-15T06:20:33.862Z - debug:  [01932] Using TFS proxy: 
+2025-07-15T06:20:33.862Z - debug:  [01932] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-15T06:20:33.862Z - warn:   [01932] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-15T06:20:33.862Z - error:  [01932] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-15T06:20:33.868Z - debug:  [01932] Reinitializing due to onDidChangeConfiguration
+2025-07-15T06:20:33.869Z - debug:  [01932] Polling interval value (minutes): 5
+2025-07-15T06:20:33.869Z - debug:  [01932] Polling interval must be greater than 10 minutes.
+2025-07-15T06:20:33.870Z - info:   [01932] *** FOLDER: /Users/panseriya/Desktop/Real-Estate-main ***
+2025-07-15T06:20:33.870Z - info:   [01932] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-15T06:20:33.870Z - debug:  [01932] Looking for an External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.870Z - debug:  [01932] No External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.870Z - debug:  [01932] Looking for TFVC repository at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:20:33.870Z - debug:  [01932] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-15T06:20:33.871Z - debug:  [01932] Using TFS proxy: 
+2025-07-15T06:20:33.871Z - debug:  [01932] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-15T06:20:33.872Z - warn:   [01932] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-15T06:20:33.872Z - error:  [01932] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2025-07-15T06:21:12.671Z - debug:  [01932] Reinitializing due to onDidChangeConfiguration
+2025-07-15T06:21:12.672Z - debug:  [01932] Polling interval value (minutes): 5
+2025-07-15T06:21:12.672Z - debug:  [01932] Polling interval must be greater than 10 minutes.
+2025-07-15T06:21:12.675Z - info:   [01932] *** FOLDER: /Users/panseriya/Desktop/Real-Estate-main ***
+2025-07-15T06:21:12.675Z - info:   [01932] AzureReposVSCode/1.161.0 (VSCode 1.96.2; Darwin 20.6.0; Node 20.18.3)
+2025-07-15T06:21:12.675Z - debug:  [01932] Looking for an External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:21:12.676Z - debug:  [01932] No External Context at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:21:12.732Z - debug:  [01932] Looking for TFVC repository at /Users/panseriya/Desktop/Real-Estate-main
+2025-07-15T06:21:12.733Z - debug:  [01932] TFVC Creating Tfvc object with localPath='undefined'
+2025-07-15T06:21:12.735Z - debug:  [01932] Using TFS proxy: 
+2025-07-15T06:21:12.735Z - debug:  [01932] TFVC Retrieved from settings; localPath='/usr/local/Cellar/vsts-cli/0.1.4/bin/vsts'
+2025-07-15T06:21:12.736Z - warn:   [01932] TFVC /usr/local/Cellar/vsts-cli/0.1.4/bin/vsts does not exist.
+2025-07-15T06:21:12.738Z - error:  [01932] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
